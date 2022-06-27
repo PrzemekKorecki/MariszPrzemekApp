@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Przem_kApp</string>
+
+    <string-array name="animations">
+        <item>bounce</item>
+        <item>movebottom</item>
+        <item>movetop</item>
+        <item>moveleft</item>
+        <item>moveright</item>
+        <item>zoomin</item>
+        <item>zoomout</item>
+        <item>rotate</item>
+        <item>fadein</item>
+        <item>fadeout</item>
+        <item>blink</item>
+        <item>slideup</item>
+        <item>slidedown</item>
+        <item>slideleft</item>
+        <item>slideright</item>
+        <item>other</item>
+
+
+
+    </string-array>
+</resources>

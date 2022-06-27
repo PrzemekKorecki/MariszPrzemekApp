@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947434608592",
+    "firebase_url": "https://mariszprzemekapp.firebaseio.com",
+    "project_id": "mariszprzemekapp",
+    "storage_bucket": "mariszprzemekapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947434608592:android:fba509f16027f3da42cbd5",
+        "android_client_info": {
+          "package_name": "com.example.mariszprzemekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947434608592-cpum7vogpr8vtmn2p578k7c7oqk9u24k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mariszprzemekapp",
+            "certificate_hash": "edaa12853904f29a30b29f5e1620749d54528a35"
+          }
+        },
+        {
+          "client_id": "947434608592-2amgc5cn4dlnj69m8uo9mg713b5gpk7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AX0pGOrePS3Fq4RWEzIJbczSff3lQl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947434608592-2amgc5cn4dlnj69m8uo9mg713b5gpk7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
